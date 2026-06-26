@@ -20,7 +20,7 @@ for i in range(1,4):
 
 print(f"Heads: {heads}, Tails: {tails}")
 
-# ★ここが課題の重要ポイント（名前表示）
+
 if heads > tails:
     print(f"{name} won!")
 else:
