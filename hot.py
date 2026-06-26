@@ -1,5 +1,9 @@
 import random
 
+name = input("Who are you?\n> ")
+
+print(f"Hello, {name}!")
+
 heads = 0
 tails = 0
 
